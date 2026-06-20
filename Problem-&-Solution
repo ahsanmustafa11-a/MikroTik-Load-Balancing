@@ -1,0 +1,19 @@
+𝐏𝐫𝐨𝐛𝐥𝐞𝐦:
+Company has:
+ISP1 = 100 Mbps
+ISP2 = 100 Mbps
+Only one ISP used.
+Bandwidth wasted.
+
+𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:
+PCC Load Balancing
+50% Traffic → ISP1
+50% Traffic → ISP2
+
+𝐒𝐤𝐢𝐥𝐥𝐬 𝐃𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐞𝐝:
+Routing
+NAT
+Mangle
+PCC
+Traffic Engineering
+Network Optimization
